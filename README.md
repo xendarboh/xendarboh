@@ -15,12 +15,13 @@ balance enhanced security sandboxing with convenience features.
 
 ### [human-collectives](https://github.com/xendarboh/human-collectives)
 
-Zero-Knowledge Collective Human Identities with Bio-Authenticated Sybil-Resistance from HUMΔNODE.
+Zero-Knowledge Collective Human Identities and voting with Bio-Authenticated Sybil-Resistance from HUMΔNODE.
 
 A winning project at [Humandode ‘Hack the Sybil’ Hackathon](https://blog.humanode.io/announcing-hack-the-sybil-hackathon-winners/).
 
 - 🏅️ First Prize
-- 💯 Project scores: Value Prop: 5 | Product Evaluation: 5 | Implementation: 5
+- 💯 Project scores (out of 5): Value Prop: 5 | Product Evaluation: 5 | Implementation: 5
+- 📺 Demo Videos: [Part I](https://youtu.be/dfVqSXyIehI), [Part II](https://youtu.be/FqeJevby_7o)
 
 > The first prize goes to one of the best all-around products. Not only does this project have use-cases and a user fit but also serves as the infrastructure upon other projects to be built.
 
@@ -44,3 +45,4 @@ A winning project at [ETH Shanghai Hackathon 2022](https://medium.com/@ethshangh
 
 - 🥈 Silver (2nd place from over 200 submissions and 24 finalists)
 - 🏆 Best Arweave Ecosystem Project
+- 📺 Demo Videos: [ETH Shanghai Demo Day](https://youtu.be/iQye3XvyAhM?t=9836), [Database Import Walk-Through](https://youtu.be/Oeaq1yXiYxs)
