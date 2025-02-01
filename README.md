@@ -1,7 +1,6 @@
-Greetings, I am Xendarboh! I'm passionate about nature, open source, and new technologies.
+Greetings, I am Xen!
 
-Currently exploring **Hackathons** as a creative outlet for expressing skill,
-networking, entrepreneurial endeavours, and collectively building the frontier.
+I'm passionate about nature, open source, and collectively building the frontier with new technologies.
 
 ## Some of My Projects
 
