@@ -12,6 +12,10 @@ List](https://github.com/sindresorhus/awesome) with my personal "dotfiles" and
 terminal apps that are easy to run and use. It has configurable options to
 balance enhanced security sandboxing with convenience features.
 
+### [humanode-tellr](https://github.com/xendarboh/humanode-tellr)
+
+A [Humanode](https://humanode.io/) node (humanode-peer) bioauth status reporter, aka a "teller." Run this on your Humanode node to receive notifications if your bioauth status becomes inactive, is expiring within a specified timeframe, or if humanode-peer goes down.
+
 ### [human-collectives](https://github.com/xendarboh/human-collectives)
 
 Zero-Knowledge Collective Human Identities and voting with Bio-Authenticated Sybil-Resistance from HUMΔNODE.
