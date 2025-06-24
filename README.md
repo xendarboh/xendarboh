@@ -12,6 +12,10 @@ I'm passionate about nature, open source, and collectively building the frontier
 
 The Zero Knowledge Network is an advanced private communications platform. It uses [post-quantum mixnet](https://github.com/katzenpost/katzenpost) deployments, zero-knowledge proof verification, and tamper-resistant edge hardware to secure data with verifiable authenticity while keeping it private with strong anonymity. Users, weather human or machine, connect to the Network using the [ZKNetwork Client](https://github.com/ZeroKnowledgeNetwork/client). ZKN's first application, Walletshield, provides metadata-private blockchain interactions to a growing number of supported chains.
 
+- 🌐 https://zknet.io
+- 📚 https://docs.zknet.io
+- 📺 Demo Video: [2025 Q2](https://youtu.be/KfEpIqih7hI)
+
 ### [zkHumans](https://github.com/zkHumans)
 
 <a href="https://zkhumans.io">
@@ -19,6 +23,9 @@ The Zero Knowledge Network is an advanced private communications platform. It us
 </a>
 
 zkHumans is a self-sovereign decentralized identity protocol that combines Zero-Knowledge Proofs and Crypto-Biometrics to create secure, private programmable identities with cross-organizational utility. The platform powers Decentralized Society through privacy-preserving identity management, access-control, consensus mechanisms, and economic innovation tools, representing an emerging vision of a more sovereign, interoperable, and human-centric internet that drives collective prosperity.
+
+- 🌐 https://zkhumans.io
+- 📚 https://zkhumans.io/whitepaper
 
 ### [xen/dev:latest](https://github.com/xendarboh/xendev)
 
