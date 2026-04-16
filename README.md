@@ -10,7 +10,7 @@ I'm passionate about nature, open source, and collectively building the frontier
 <img src="https://avatars.githubusercontent.com/u/167339330" alt="ZKN Logo" width="120" height="120" style="vertical-align: middle; margin-left: 8px; margin-bottom: 8px;">
 </a>
 
-The Zero Knowledge Network is an advanced private communications platform. It uses [post-quantum mixnet](https://github.com/katzenpost/katzenpost) deployments, zero-knowledge proof verification, and tamper-resistant edge hardware to secure data with verifiable authenticity while keeping it private with strong anonymity. Users, weather human or machine, connect to the Network using the [ZKNetwork Client](https://github.com/ZeroKnowledgeNetwork/client). ZKN's first application, Walletshield, provides metadata-private blockchain interactions to a growing number of supported chains.
+The Zero Knowledge Network is an advanced private communications platform. It uses [post-quantum mixnet](https://github.com/katzenpost/katzenpost) deployments, zero-knowledge proof verification, and tamper-resistant edge hardware to secure data with verifiable authenticity while keeping it private with strong anonymity. Users, whether human or machine, connect to the Network using the [ZKNetwork Client](https://github.com/ZeroKnowledgeNetwork/client). ZKN's first application, Walletshield, provides metadata-private blockchain interactions to a growing number of supported chains.
 
 - 🌐 https://zknet.io
 - 📚 https://docs.zknet.io
